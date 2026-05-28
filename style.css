@@ -1,0 +1,91 @@
+body {
+margin: 0;
+padding: 0;
+font-family: 'Georgia', serif;
+background: #1a1a1a;
+color: #e0dcd0;
+line-height: 1.6;
+}
+
+.wrap {
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+h1 {
+font-size: 2.5em;
+margin: 30px 0 5px 0;
+color: #f5e6c8;
+letter-spacing: 3px;
+}
+
+h2 {
+font-size: 1.6em;
+color: #d4af7a;
+border-bottom: 1px solid #333;
+padding-bottom: 10px;
+margin-top: 40px;
+}
+
+h3 {
+font-size: 1.2em;
+margin: 5px 0;
+color: #f5e6c8;
+}
+
+.tagline {
+font-style: oblique;
+color: #999;
+font-size: 1em;
+margin-bottom: 30px;
+}
+
+.intro {
+font-size: 1.05em;
+margin: 30px 0;
+padding: 15px;
+background: #222;
+border-left: 3px solid #d4af7a;
+}
+
+.product {
+background: #222;
+padding: 15px;
+margin-bottom: 15px;
+border: 1px solid #333;
+}
+
+.product .price {
+color: #d4af7a;
+font-weight: bold;
+}
+
+.product .scent {
+color: #888;
+font-size: 0.9em;
+}
+
+.product .desc {
+margin-top: 8px;
+font-size: 0.95em;
+}
+
+.contact {
+list-style: none;
+padding: 0;
+}
+
+.contact li {
+padding: 8px 0;
+border-bottom: 1px solid #2a2a2a;
+}
+
+.footer {
+text-align: center;
+margin-top: 50px;
+padding: 20px 0;
+border-top: 1px solid #333;
+font-size: 0.85em;
+color: #666;
+}

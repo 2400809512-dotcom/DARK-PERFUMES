@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<perfumes>
+	<perfume>
+		<id>1</id>
+		<name>Midnight Rose</name>
+		<scent>Floral, Rose, Musk</scent>
+		<price>45000</price>
+		<description>A rich rose blend for evening wear. Soft and lasting.</description>
+	</perfume>
+	<perfume>
+		<id>2</id>
+		<name>Ocean Breeze</name>
+		<scent>Fresh, Citrus, Aquatic</scent>
+		<price>38000</price>
+		<description>Light and clean. Feels like a walk by the sea.</description>
+	</perfume>
+	<perfume>
+		<id>3</id>
+		<name>Golden Oud</name>
+		<scent>Woody, Oud, Spice</scent>
+		<price>65000</price>
+		<description>A strong woody scent for those who like bold fragrances.</description>
+	</perfume>
+	<perfume>
+		<id>4</id>
+		<name>Vanilla Dream</name>
+		<scent>Sweet, Vanilla, Amber</scent>
+		<price>32000</price>
+		<description>Warm and cozy. A sweet scent that stays all day.</description>
+	</perfume>
+	<!-- <perfume>
+		<id>5</id>
+		<name>Desert Sand</name>
+		<scent>Earthy, Leather, Smoke</scent>
+		<price>52000</price>
+		<description>For men and women who love deep, earthy smells.</description>
+	</perfume> -->
+</perfumes>
